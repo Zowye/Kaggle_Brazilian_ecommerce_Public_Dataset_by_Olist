@@ -1,0 +1,24 @@
+Cluster 1
+Norte/Nordeste
+Muito longe dos Sellers
+Gasta dentro do normal na plataforma
+
+
+Cluster 6
+Paga o frete mais alto
+
+
+
+
+df_rfm_sem_nulls_no_outliers
+
+cluster_color_map = {
+    0: '#eb1717',
+    1: '#f58f0a',
+    2: '#d9f507',
+    3: '#02f7d3',
+    4: '#0516ff',
+    5: '#d505ff',
+    6: '#ff05a8',
+    7: '#ffff00',
+}
